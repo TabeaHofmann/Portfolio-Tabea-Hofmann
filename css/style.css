@@ -1,0 +1,74 @@
+body, section, p, h1, h2, a, figure, header, footer {
+    padding: 0;
+    margin: 0;
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+
+
+.container { 
+  display: grid;
+  grid-template-columns: 100px 50px 100px; 
+  grid-template-rows: 80px auto 80px;
+
+  grid-column-gap: 10px;
+  grid-row-gap: 15px;  
+}
+
+
+
+
+
+h1{ padding-bottom: 1rem;
+}
+h2{}
+
+figure {
+    line-height: 0;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.btn a {color: #E4E4E4;
+    background-color: #121212;
+    padding: 15px 40px;
+    border-radius: 10px;
+    position: fixed;
+    right: 30px;
+    top:40px;
+    
+          
+}
+
+
+
+
+
+
+
+.btn a{
+    position: fixed;
+    top:45px;
+    right:30px
+}
+
+.btn a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    padding:right 40px
+        
+    transition: all 0.3s;
+}
+
+.btn a :hover{ background-color: aqua;
+    color: #121212;
+    text-decoration: none;}
+    
+
