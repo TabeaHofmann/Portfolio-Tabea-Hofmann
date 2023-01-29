@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <title>Perlikowska</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    
+</head>
+<body1>
+<!--- Ab hier -->   
+    
+     <div class="column"> 
+  
+    </div>
+    
+    
+    <p>  <br/> <br>
+        
+         <br/> <br>
+        
+         <img src="img/Tabea.JPG" style="width:30%">
+          
+         <br/> <br>
+        
+         
+        
+      <br/> <br>
+    <br/> Tabea Hofmann<br>
+     <br/> hofmann.tabea@outlook.com <br>
+     <br/> +49/15123338382<br>
+     <br/> München <br>
+</p>
+  
+
+
+      
+    
+    
+    
+<!--- Bis hier --> 
+</body1>
+</html>
